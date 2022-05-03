@@ -1,2 +1,2 @@
 # ShopiFood-Grocery-Store
-Grocery Store Website. School project.
+https://users.encs.concordia.ca/~p_fratto/SOEN287Website/
